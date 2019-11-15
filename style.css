@@ -1,0 +1,15 @@
+.col{
+   text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.col-5{
+    display: none;
+    background: rgb(160, 173, 196);
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    height: 20%;
+    padding: 15px;
+}
